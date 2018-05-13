@@ -31,7 +31,7 @@ NOTE: Create a folder named as 'bin' and put the wights file in it.
 
 ## API Screenshots 
 
-## 1. Intro Upload window 
+## 1. Intro upload window 
 
 ![screenshot 27](https://user-images.githubusercontent.com/23147497/39966783-1569b6a6-56cf-11e8-9891-938ff4bd2de9.png)
 
