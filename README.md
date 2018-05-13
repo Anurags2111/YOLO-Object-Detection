@@ -1,6 +1,13 @@
 # YOLO-Object-Detection
+## Description
+Project involved building an API that performs object detection of the images. The API takes images as input and return a response JSON which have all the bounding boxes of the captured items on the image and their coordinates.
+
+**Object Detection Algorithm used:** YOLO v2 (aka YOLO 9000)
+**Object Detection Library used:** Darkflow
+**Python Backend Framework used:** Flask
+
 ## What is YOLO v2 (aka YOLO 9000)
-YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 9000! (object categories)
+YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 9000! (object categories). It was originally written in a deep learning framework called 'Darknet'. Darknet was written in C language. To make it user-friendly, a tensorflow version of it called as 'Darkflow' was created.
 
 ## Step1 - Requirements
 - Python 3.5 or 3.6
@@ -18,4 +25,4 @@ Open an cmd window and type python setup.py build_ext --inplace
 ## Step 4 - Download a weights file
 Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolo/)
 
-NOTE: Put the wights file in the bin folder.
+NOTE: Create a folder named as 'bin' and put the wights file in it.
