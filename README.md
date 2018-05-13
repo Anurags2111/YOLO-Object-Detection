@@ -28,3 +28,17 @@ Open an cmd window and type python setup.py build_ext --inplace
 Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolo/)
 
 NOTE: Create a folder named as 'bin' and put the wights file in it.
+
+## API Screenshots 
+
+#1. Intro Upload window 
+![screenshot 27](https://user-images.githubusercontent.com/23147497/39966783-1569b6a6-56cf-11e8-9891-938ff4bd2de9.png)
+
+
+![screenshot 28](https://user-images.githubusercontent.com/23147497/39966790-2c47158a-56cf-11e8-905a-da90d6c457d7.png)
+
+
+![screenshot 29](https://user-images.githubusercontent.com/23147497/39966797-3ac5e2c6-56cf-11e8-9530-48c57eab0c92.png)
+
+
+![screenshot 32](https://user-images.githubusercontent.com/23147497/39966803-4739051a-56cf-11e8-8942-85eab2bbd758.png)
