@@ -1,6 +1,6 @@
 # YOLO-Object-Detection
 ## Description
-Project involved building an API that performs object detection of the images. The API takes images as input and return a response JSON which have all the bounding boxes of the captured items on the image and their coordinates.
+The project involved building an API that performs object detection on an image. The API takes an image as input and returns a response JSON which has all the bounding boxes of the captured items on the image and their coordinates.
 
 **Object Detection Algorithm used:** YOLO v2 (aka YOLO 9000)
 **Object Detection Library used:** Darkflow
