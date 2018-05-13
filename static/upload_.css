@@ -1,0 +1,52 @@
+ h1{
+font-family: sans-serif;
+line-height: 50px;
+color: white;
+background: #3b3a30;
+font-weight: bold;
+text-align: center;
+}
+
+h3{
+text-align: center;
+margin-top: 70px;
+font-family: sans-serif;
+}
+
+h4{
+margin-top: 78px;
+color: white;
+line-height: 40px;
+background: #3b3a30;
+text-align: center;
+font-family: sans-serif;
+}
+
+.back{
+background: #ddeedd;
+margin: auto;
+margin-top: 100px;
+width: 700px;
+height: 350px;
+}
+
+#upload-form, detect{
+margin-left: 290px;
+}
+
+#detect{
+margin-top: 40px;
+}
+
+.form_ input[type="submit"]{
+    background-color: #FE1D08;
+    border: 3px solid #FE3A29;
+    display: isnline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 18px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
