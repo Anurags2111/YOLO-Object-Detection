@@ -10,15 +10,10 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
 ## Step2 - Download the Darkflow repo
 https://github.com/thtrieu/darkflow
 
-Extract the files somewhere locally
+Extract the files somewhere locally.
 
 ## Step3 - Build the library
-Open an cmd window and type
-python setup.py build_ext --inplace
-
-OR
-
-pip install -e .
+Open an cmd window and type python setup.py build_ext --inplace
 
 ## Step 4 - Download a weights file
 Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolo/)
