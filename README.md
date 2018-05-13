@@ -7,9 +7,9 @@ watch a talk on it here (https://www.youtube.com/watch?v=NM6lrxy0bxs)
 and another talk here (https://www.youtube.com/watch?v=4eIBisqx9_g)
 
 ## Step1 - Requirements
-Python 3.5 or 3.6
-Tensorflow (tutorial GPU verions https://www.youtube.com/watch?v=RplXYjxgZbw&t=91s)
-openCV (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+- Python 3.5 or 3.6
+- Tensorflow (tutorial GPU verions https://www.youtube.com/watch?v=RplXYjxgZbw&t=91s)
+- openCV (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 ## Step2 - Download the Darkflow repo
 https://github.com/thtrieu/darkflow
