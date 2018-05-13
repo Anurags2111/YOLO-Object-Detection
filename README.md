@@ -29,7 +29,10 @@ Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolo
 
 NOTE: Create a folder named as 'bin' and put the wights file in it.
 
-## API Screenshots 
+
+
+
+# API SCREENSHOTS
 
 ## 1. Intro upload window 
 
