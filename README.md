@@ -3,7 +3,9 @@
 YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 9000! (object categories)
 
 you can read more about it here (https://arxiv.org/pdf/1612.08242.pdf)
+
 watch a talk on it here (https://www.youtube.com/watch?v=NM6lrxy0bxs)
+
 and another talk here (https://www.youtube.com/watch?v=4eIBisqx9_g)
 
 ## Step1 - Requirements
@@ -13,12 +15,15 @@ and another talk here (https://www.youtube.com/watch?v=4eIBisqx9_g)
 
 ## Step2 - Download the Darkflow repo
 https://github.com/thtrieu/darkflow
+
 extract the files somewhere locally
 
 ## Step3 - Build the library
 open an cmd window and type
 python setup.py build_ext --inplace
+
 OR
+
 pip install -e .
 
 ## Step 4 - Download a weights file
