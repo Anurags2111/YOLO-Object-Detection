@@ -22,7 +22,7 @@ APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 @app.route("/")
 def index():
-    return render_template("why.html")
+    return render_template("upload.html")
 
 
 @app.route("/upload", methods=["POST"])
