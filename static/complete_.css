@@ -1,0 +1,34 @@
+h2 {
+margin: auto;
+font-family: sans-serif;
+text-align: center;
+background: black;
+color: white;
+font-weight: bold;
+margin-top: 20px;
+line-height: 35px;
+width: 700px;
+}
+
+ul {
+background: #d5e1df;
+font-family: sans-serif;
+list-style-type: none;
+width: 660px;
+margin: 0 auto;
+margin-top: 20px;
+}
+
+li {
+
+padding-bottom: 5px;
+text-align: center;
+}
+
+img {
+text-align:center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
