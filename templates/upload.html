@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='upload_.css') }}">
+    <title>YOLO</title>
+</head>
+<body>
+<div class="back">
+    <div class="content">
+        <h1>YOLO OBJECT DETECTOR</h1>
+        <h3>Choose an image file.</h3>
+        <div class="form_">
+            <form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+                <input id="file" type="file" name="file" accept="image/*" multiple>
+                <br>
+                <input type="submit" value="Detect" id="detect">
+            </form>
+        </div>
+        <h4>Developed by: Anurag Sharma</h4>
+    </div>
+</div>
+</body>
+</html>
