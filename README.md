@@ -1,5 +1,5 @@
 # YOLO-Object-Detection
-## what is YOLO v2 (aka YOLO 9000)
+## What is YOLO v2 (aka YOLO 9000)
 YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 9000! (object categories)
 
 ## Step1 - Requirements
@@ -10,10 +10,10 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
 ## Step2 - Download the Darkflow repo
 https://github.com/thtrieu/darkflow
 
-extract the files somewhere locally
+Extract the files somewhere locally
 
 ## Step3 - Build the library
-open an cmd window and type
+Open an cmd window and type
 python setup.py build_ext --inplace
 
 OR
@@ -23,6 +23,4 @@ pip install -e .
 ## Step 4 - Download a weights file
 Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolo/)
 
-NOTE: there are other weights files you can try if you like
-create a bin folder within the darkflow-master folder
-put the weights file in the bin folder
+NOTE: Put the wights file in the bin folder.
