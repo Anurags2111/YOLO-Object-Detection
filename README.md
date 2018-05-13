@@ -39,11 +39,11 @@ NOTE: Create a folder named as 'bin' and put the wights file in it.
 
 ![screenshot 29](https://user-images.githubusercontent.com/23147497/39966797-3ac5e2c6-56cf-11e8-9530-48c57eab0c92.png)
 
-## 2 Response
+## 2. Response
 
 ![screenshot 32](https://user-images.githubusercontent.com/23147497/39966803-4739051a-56cf-11e8-8942-85eab2bbd758.png)
 
-## Responses to other test images
+## 3. Responses to other test images
 
 ![screenshot 33](https://user-images.githubusercontent.com/23147497/39967056-eaa1fa06-56d2-11e8-8dfc-be0273aa5854.png)
 
