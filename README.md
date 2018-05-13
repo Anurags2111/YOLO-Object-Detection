@@ -3,7 +3,9 @@
 The project involved building an API that performs object detection on an image. The API takes an image as input and returns a response JSON which has all the bounding boxes of the captured items on the image and their coordinates.
 
 **Object Detection Algorithm used:** YOLO v2 (aka YOLO 9000)
+
 **Object Detection Library used:** Darkflow
+
 **Python Backend Framework used:** Flask
 
 ## What is YOLO v2 (aka YOLO 9000)
